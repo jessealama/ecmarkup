@@ -113,7 +113,7 @@ describe('spelling', () => {
         ruleId: 'spelling',
         nodeType: 'html',
         message:
-          'literal Number or BigInt values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> respectively',
+          'literal Number, BigInt or Decimal128 values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> or <sub>𝔻</sub> respectively',
       },
     );
 
@@ -125,7 +125,7 @@ describe('spelling', () => {
         ruleId: 'spelling',
         nodeType: 'html',
         message:
-          'literal Number or BigInt values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> respectively',
+          'literal Number, BigInt or Decimal128 values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> or <sub>𝔻</sub> respectively',
       },
     );
 
@@ -137,7 +137,7 @@ describe('spelling', () => {
         ruleId: 'spelling',
         nodeType: 'html',
         message:
-          'literal Number or BigInt values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> respectively',
+          'literal Number, BigInt or Decimal128 values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> or <sub>𝔻</sub> respectively',
       },
     );
   });
