@@ -32,9 +32,9 @@ const matchers = [
     message: 'literal BigInt values should be bolded',
   },
   {
-    pattern: /\*[+-]?(?:&[a-z]+;|0x[0-9A-Fa-f]+|[0-9]+(?:\.[0-9]+)?)\*(?!<sub>[𝔽ℤ]<\/sub>)/gu,
+    pattern: /\*[+-]?(?:&[a-z]+;|0x[0-9A-Fa-f]+|[0-9]+(?:\.[0-9]+)?)\*(?!<sub>[𝔻𝔽ℤ]<\/sub>)/gu,
     message:
-      'literal Number or BigInt values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> respectively',
+      'literal Number, BigInt or Decimal128 values should be followed by <sub>𝔽</sub> or <sub>ℤ</sub> or <sub>𝔻</sub> respectively',
   },
   {
     pattern: /(?<=\*)\+(?:0x[1-9A-Fa-f]|[1-9])/gu,
