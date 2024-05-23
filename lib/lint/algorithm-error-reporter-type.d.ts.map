@@ -1,0 +1,1 @@
+{"version":3,"file":"algorithm-error-reporter-type.d.ts","sourceRoot":"","sources":["../../src/lint/algorithm-error-reporter-type.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,QAAQ,GAAG,CAAC,YAAY,EAAE,YAAY,KAAK,IAAI,CAAC;AAG5D,MAAM,MAAM,YAAY,GAAG;IACzB,MAAM,EAAE,MAAM,CAAC;IACf,OAAO,EAAE,MAAM,CAAC;IAChB,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;CAChB,CAAC"}

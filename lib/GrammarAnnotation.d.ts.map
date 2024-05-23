@@ -1,0 +1,1 @@
+{"version":3,"file":"GrammarAnnotation.d.ts","sourceRoot":"","sources":["../src/GrammarAnnotation.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,IAAI,MAAM,QAAQ,CAAC;AAC/B,OAAO,KAAK,UAAU,MAAM,cAAc,CAAC;AAE3C,OAAO,OAAO,MAAM,WAAW,CAAC;AAEhC,MAAM,CAAC,OAAO,OAAO,iBAAkB,SAAQ,OAAO;gBAGxC,IAAI,EAAE,IAAI,EAAE,IAAI,EAAE,UAAU,EAAE,IAAI,EAAE,WAAW;IAK3D,KAAK;CAaN"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"collect-header-diagnostics.d.ts","sourceRoot":"","sources":["../../src/lint/collect-header-diagnostics.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,SAAS,CAAC;AAMvC,wBAAgB,wBAAwB,CACtC,MAAM,EAAE,CAAC,CAAC,EAAE,OAAO,KAAK,IAAI,EAC5B,OAAO,EAAE;IAAE,OAAO,EAAE,OAAO,CAAC;IAAC,QAAQ,EAAE,MAAM,CAAA;CAAE,EAAE,QA8FlD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"collect-spelling-diagnostics.d.ts","sourceRoot":"","sources":["../../src/lint/collect-spelling-diagnostics.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,SAAS,CAAC;AACvC,OAAO,KAAK,EAAE,OAAO,IAAI,MAAM,EAAE,MAAM,WAAW,CAAC;AA6JnD,wBAAgB,0BAA0B,CACxC,MAAM,EAAE,CAAC,CAAC,EAAE,OAAO,KAAK,IAAI,EAC5B,UAAU,EAAE,MAAM,EAClB,OAAO,EAAE,MAAM,EAAE,QAoClB"}
